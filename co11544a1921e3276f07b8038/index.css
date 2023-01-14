@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    background-color: darkblue
+}
+
+h3{
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    font-family: 'Verdana';
+    width: 149px;
+    height: 36px;
+    left: 340px;
+    top: 68px;
+}
+.box {
+    width: 155px;
+    height: 120px;
+    left: 337px;
+    top: 125px;
+    border-radius: 5px;
+    padding-bottom: 26px;
+    margin-top: -70px;
+}
+.innerbox{
+    width: 155px;
+    height: 120px;
+    background-color: black;
+    color: red;
+    font-family: "Cursed Timer ULiL";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+/* or 141% */
+
+    text-align: center;
+}
+.box2 {
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    border-radius: 5px;
+    padding-bottom: 26px;
+    margin-top: -70px;
+}
+.innerbox2{
+    width: 155px;
+    height: 120px;
+    background-color: black;
+    color: red;
+    font-family: "Cursed Timer ULiL";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+/* or 141% */
+
+    text-align: center;
+}
+
+button{
+    width: 45px;
+    height: 45px;
+    left: 337px;
+    top: 271px;
+
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: darkblue;
+    color: #9AABD8;
+     font-family: "Cursed Timer ULiL";
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
